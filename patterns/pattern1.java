@@ -12,7 +12,7 @@ public class pattern1{
                     System.out.print(" ");
                 }
             }
-             System.out.println();
+            System.out.println();
             
         }
        
